@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mastering Embedded Systems Online Diploma](https://github.com/AdhamMahgoub/Embedded_Systems_KS)
 
-- 📫 How to reach me 
+- 📫 How to reach me: 
 **adhammahgoub1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
