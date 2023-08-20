@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adham Mahgoub</h1>
 <h3 align="center">A passionate Junior Embedded SW Engineer</h3>
 
-- 🔭 I’m currently working on [Mastering Embedded Systems Online Diploma by Eng. Keroles Khalil](https://github.com/AdhamMahgoub/Embedded_Systems_KS)
+- 🔭 I’m currently working on [Mastering Embedded Systems Online Diploma (https://github.com/AdhamMahgoub/Embedded_Systems_KS)
 
 - 📫 How to reach me **adhammahgoub1@gmail.com or 01000315558**
 
