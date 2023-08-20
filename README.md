@@ -5,7 +5,6 @@
 
 - 📫 How to reach me 
 **adhammahgoub1@gmail.com**
-**01000315558**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
